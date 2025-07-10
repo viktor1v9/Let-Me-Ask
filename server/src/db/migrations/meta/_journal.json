@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1752170543401,
+      "tag": "0000_slim_captain_universe",
+      "breakpoints": true
+    }
+  ]
+}
