@@ -4,7 +4,6 @@ import { z } from 'zod/v4';
 import { db } from '../../db/connection.ts';
 import { schema } from '../../db/schema/index.ts';
 import { generateAnswer, generateEmbeddings } from '../../services/gemini.ts';
-import { request } from 'http';
 
 export const createQuestionRoute: FastifyPluginCallbackZod = (app) => {
     app.post(
