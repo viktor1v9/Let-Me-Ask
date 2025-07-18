@@ -5,22 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1752170543401,
-      "tag": "0000_slim_captain_universe",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1752461236480,
-      "tag": "0001_eager_surge",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1752590685983,
-      "tag": "0002_minor_toxin",
+      "when": 1752691776951,
+      "tag": "0000_wild_guardian",
       "breakpoints": true
     }
   ]
