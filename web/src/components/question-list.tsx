@@ -19,7 +19,7 @@ export function QuestionList(props: QuestionListProps) {
         {data?.map((question) => {
             return <QuestionItem key={question.id} question={question}/>
         })}
-
         </div>
+
     )
 }
